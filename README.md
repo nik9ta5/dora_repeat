@@ -4,9 +4,8 @@
 * [ICML 2024](https://openreview.net/forum?id=3d5CIRG1n2)
 
 ---
-Директори `*peft/*` скопирована из репозитория [GitHub](https://github.com/NVlabs/DoRA)
+Директория `peft/` скопирована из репозитория [GitHub](https://github.com/NVlabs/DoRA)
 
-В блокноте `indexGemma1B.ipynb` частичное воспроизведение результатов статьи
-Небольшие выводы приведены в конце блокнота
+В блокноте `indexGemma1B.ipynb` частичное воспроизведение результатов статьи. Выводы в конце блокнота.
 
 Для тонкой настройки был выбран бенчмарк `HellaSwag`, который был взят из [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters/tree/main/dataset)
